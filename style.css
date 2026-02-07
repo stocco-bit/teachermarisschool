@@ -333,11 +333,12 @@ body{
 }
 
 @media (max-width: 768px){
-  body{ padding-top: 70px; }
-  .topo{ height: 70px; }
+  body{ padding-top: 85px; }
+  .topo{ height: 85px; }
   .logo img{
-    height: 65px;
+    height: 70px;
     width: auto;
+    object-fit: contain;
   }
 
   .menu-toggle{ display: block; }
