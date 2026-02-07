@@ -334,7 +334,8 @@ body{
 
 @media (max-width: 768px){
   body{ padding-top: 85px; }
-  .topo{ height: 85px; }
+  .topo{ height: 85px;
+    background: red !important;}
   .logo img{
     height: 70px;
     width: auto;
