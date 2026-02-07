@@ -336,8 +336,8 @@ body{
   body{ padding-top: 70px; }
   .topo{ height: 70px; }
   .logo img{
-    height: 46px;
-    width: 46px;
+    height: 150px;
+    width: auto;
   }
 
   .menu-toggle{ display: block; }
