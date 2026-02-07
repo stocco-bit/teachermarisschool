@@ -334,10 +334,10 @@ body{
 
 @media (max-width: 768px){
   body{ padding-top: 85px; }
-  .topo{ height: 85px;
-    background: red !important;}
+  .topo{
+     height: 85px; }
   .logo img{
-    height: 70px;
+    height: 100px;
     width: auto;
     object-fit: contain;
   }
